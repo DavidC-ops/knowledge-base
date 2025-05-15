@@ -1,0 +1,9 @@
+site_name: Firemní Knowledge Base
+theme:
+  name: material
+nav:
+  - Domů: index.md
+  - Onboarding:
+      - Nový zaměstnanec: onboarding/novy-zamestnanec.md
+  - Nástroje:
+      - GitLab: tools/gitlab.md
